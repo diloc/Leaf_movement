@@ -4,7 +4,7 @@ ShootMove is a Python program that enables high-throughput analyses of A. thalia
 ## Resources
 
 * Source Repository (Analysis): https://github.com/diloc/Leaf_movement/blob/main/Programs/shootmovement.ipynb
-* Source Repository (Visualisation):
+* Source Repository (Visualisation): https://github.com/diloc/Leaf_movement/blob/main/Programs/Data_Visualisation.ipynb
 
 ## Dependencies
 * Python (3. 7 or higher).
